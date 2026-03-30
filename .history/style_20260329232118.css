@@ -33,14 +33,6 @@ p.description {
     margin-bottom: 1rem;
     flex-wrap: wrap;
 }
-.text {
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    gap: 1rem;
-    margin-bottom: 1rem;
-    flex-wrap: wrap;
-}
 
 button {
     padding: 0.5rem 1rem;
